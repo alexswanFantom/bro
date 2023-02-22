@@ -1,0 +1,9 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cloudflare-bypasser": "^0.0.3"
+  }
+}
