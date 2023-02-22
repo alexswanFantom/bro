@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "cloudflare-bypasser": "^0.0.3"
+    "cloudflare-bypasser": "^0.0.3",
+    "input": "^1.0.1",
+    "telegram": "^2.15.10"
   }
 }
